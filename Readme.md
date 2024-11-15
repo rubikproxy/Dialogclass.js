@@ -149,5 +149,3 @@ const dialog = new Dialog({
 ## Customizing Dialog Behavior
 
 You can customize the behavior of the dialog by modifying the properties in the constructor, such as changing the button colors, adding custom animations, or setting the duration for auto-close.
-
-To change the default confirm and cancel actions, you can provide your own callback functions as demonstrated in the examples.
